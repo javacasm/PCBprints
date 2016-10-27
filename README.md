@@ -15,3 +15,7 @@ Basta con cambiar el número en la hoja de cálculo incluida en el diseño
 
 
 ![Parámetros](./images/Configuracion.png)
+
+
+
+![CC](./images/Licencia CC.png)
