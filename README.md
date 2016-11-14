@@ -19,7 +19,7 @@ Basta con cambiar el número en la hoja de cálculo incluida en el diseño
 ![Parámetros](./images/Configuracion.png)
 
 
-## PCBPrint LED (BC547)
+## [PCBPrint LED (BC547)](PCBPProtoPrint/README.md)
 
 Un diseño alternativo al Alhambra led para transistores de otro patillaje
 
@@ -27,3 +27,15 @@ Un diseño alternativo al Alhambra led para transistores de otro patillaje
 
 
 ![CC](./images/Licencia CC.png)
+
+## [PCBPrint LDR](PCBPrint_ldr/README.md)
+
+Sensor luminoso analógico
+
+![a](https://lh3.googleusercontent.com/26gFsAEfURvQOTPk-pSBdqHTtw5iUMiUMRKyBG1VacKKsArQVctltIio2KhcOqpLYgqwoGKWx3s=w807-h935-no)
+
+## [PCBPrint Botón](PCBPrint_button/README.md)
+
+Pulsador con conexión Pull Down
+
+![a](https://lh3.googleusercontent.com/vTEPZUCdk6lisei_uNa5GlQSCNVYprbPvmiwcR6VBZw6Xqr7tKk2wf-3JtS8dFbteqAKWz6LdjY=w772-h936-no)
