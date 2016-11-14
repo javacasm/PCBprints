@@ -25,9 +25,6 @@ Un diseño alternativo al Alhambra led para transistores de otro patillaje
 
 ![PCBPrint top](https://lh3.googleusercontent.com/faS4u0jSnPc2ternjIO0dI98AgeIof-VYvwydO_39pRlzklZmNVJVevmMY9PZ4FkgxjcqfSFqsM=w1073-h936-no)
 
-
-![CC](./images/Licencia CC.png)
-
 ## [PCBPrint LDR](PCBPrint_ldr/README.md)
 
 Sensor luminoso analógico
@@ -39,3 +36,7 @@ Sensor luminoso analógico
 Pulsador con conexión Pull Down
 
 ![a](https://lh3.googleusercontent.com/vTEPZUCdk6lisei_uNa5GlQSCNVYprbPvmiwcR6VBZw6Xqr7tKk2wf-3JtS8dFbteqAKWz6LdjY=w772-h936-no)
+
+
+
+![CC](./images/Licencia CC.png)
