@@ -31,7 +31,7 @@ Sensor luminoso analógico
 
 ![a](https://lh3.googleusercontent.com/26gFsAEfURvQOTPk-pSBdqHTtw5iUMiUMRKyBG1VacKKsArQVctltIio2KhcOqpLYgqwoGKWx3s=w807-h935-no)
 
-## [PCBPrint Botón](PCBPrint_button/README.md)
+## [PCBPrint Pulsador](PCBPrint_button/README.md)
 
 Pulsador con conexión Pull Down
 
