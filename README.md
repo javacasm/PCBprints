@@ -38,5 +38,13 @@ Pulsador con conexión Pull Down
 ![a](https://lh3.googleusercontent.com/vTEPZUCdk6lisei_uNa5GlQSCNVYprbPvmiwcR6VBZw6Xqr7tKk2wf-3JtS8dFbteqAKWz6LdjY=w772-h936-no)
 
 
+## Próximamente
+
+* Led sin transistor (con 3 pines)
+* Driver de motores (L293D)
+* Detector de infrarrojos para mando a distancia
+* LED RGB
+* Siguelineas
+
 
 ![CC](./images/Licencia CC.png)
