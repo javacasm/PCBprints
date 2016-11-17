@@ -13,3 +13,8 @@
 ![lm358](http://circuitdigest.com/sites/default/files/inlineimages/LM358-Pinout.jpg)
 
 ![ir sensor circuit](http://circuitdigest.com/sites/default/files/circuitdiagram/IR-sensor-circuit.gif)
+
+
+
+Excelente vídeo sobre amplificadores operacionales
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zeiRh-Q20VA" frameborder="0" allowfullscreen></iframe>
