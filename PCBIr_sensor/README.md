@@ -18,3 +18,7 @@
 
 Excelente vídeo sobre amplificadores operacionales
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zeiRh-Q20VA" frameborder="0" allowfullscreen></iframe>
+
+
+[Cómo conectar sensores IR a arduino](http://rufianenlared.com/sensor-optico/)
+[amplificadores operacionales](http://rufianenlared.com/amplificador-operacional-comparador/)
