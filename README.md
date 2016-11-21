@@ -45,6 +45,9 @@ Pulsador con conexión Pull Down
 * Detector de infrarrojos para mando a distancia
 * LED RGB
 * Siguelineas
+  * Versión simple con los Led IR
+  * Utilizando un opamp (LM358)
+* Shield básico que permite conectar cables de 3 pines 
 
 
 ![CC](./images/Licencia CC.png)
