@@ -62,8 +62,9 @@ Pulsador con conexión Pull Down
 * Siguelineas
   * Versión simple con los Led IR
   * Utilizando un opamp (LM358)
-* Buzzer simple (conexión directa al pin)
-* Buzzer amplificado por un transistor
+* Buzzer
+  * Simple (conexión directa al pin)
+  * Amplificado por un transistor
 * Shield básico que permite conectar cables de 3 pines
 
 
