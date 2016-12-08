@@ -21,4 +21,5 @@ Excelente vídeo sobre amplificadores operacionales
 
 
 [Cómo conectar sensores IR a arduino](http://rufianenlared.com/sensor-optico/)
+
 [amplificadores operacionales](http://rufianenlared.com/amplificador-operacional-comparador/)
