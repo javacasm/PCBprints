@@ -6,7 +6,7 @@ Todas las conexiones se pueden realizar con las propias patillas de las resisten
 
 ![Parte delantera](../images/PCB-5-led_01.jpg)
 
-![Parte trasera](../images/PCB-5-led_01.jpg)
+![Parte trasera](../images/PCB-5-led_02.jpg)
 
 Descargas:
 [pcb-5-led.fcstd](../fcstd/pcb-5-led.fcstd) - [pcb-5-led.stl](../stl/pcb-5-led.stl)
